@@ -1,1 +1,1 @@
-https://hinyzw.github.io/MinhasAPIs/
+https://TailyniDev.github.io/MinhasAPIs/
